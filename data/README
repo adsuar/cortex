@@ -1,0 +1,48 @@
+/***************************************************************************
+ *   Copyright (C) 2008 by Antonio Jesús Adsuar Gómez                      *
+ *   adsuar@lsi.upc.edu                                                    *
+ *                                                                         *
+ *   This file is part of CORTEX                                           *
+ *   CORTEX is free software; you can redistribute it and/or modify        *
+ *   it under the terms of the GNU General Public License as published by  *
+ *   the Free Software Foundation; either version 2 of the License, or     *
+ *   (at your option) any later version.                                   *
+ *                                                                         *
+ *   CORTEX is distributed in the hope that it will be useful,             *
+ *   but WITHOUT ANY WARRANTY; without even the implied warranty of        *
+ *   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the         *
+ *   GNU General Public License for more details.                          *
+ *                                                                         *
+ *   You should have received a copy of the GNU General Public License     *
+ *   along with this program; if not, write to the                         *
+ *   Free Software Foundation, Inc.,                                       *
+ *   59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.             *
+ ***************************************************************************/
+
+/***************************************************************************
+ ** CORTEX
+ ** Tool designed by:
+ **    Antonio Jesús Adsuar Gómez
+ **    adsuar@lsi.upc.edu
+ ** Sevilla 2008
+ **
+ ***************************************************************************/
+
+Data in CSV format must be changed to CORTEX format, including its own
+HEADER.
+
+The requirements of this format are:
+* Each value has to be separated from the next one by a comma ','
+* At the top of the file, there's a HEADER with the next specifications:
+  a) 1st row -- This row, shows the use of each column, that is, if it's 'bout
+                features data (D) or classes (C). It starts and ends with @
+                symbol
+
+     @D D D D D D D D D D D D D D D D D ... D D C C ... C@
+
+  b) 2nd row -- This row, shows the type of each, if it's discreet data (D) or
+                continuous data (C). It starts and ends with # symbol.
+
+     #D C C C C C C C D D D D C D C D C ... D C D D ... D@
+
+The extension of cortex data is ctx.

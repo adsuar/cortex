@@ -1,0 +1,321 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\astroncite{Alon et~al.}{1999}]{Al99}
+{\sc Alon, U., Barkai, N., Notterman, D., Gish, K., Ybarra, S., Mack, D., and
+  Levine, A.} (1999),
+\newblock Broad patterns of gene expression revealed by clustering analysis of
+  tumor and normal colon tissues probed by oligonucleotide arrays,
+\newblock in {\em Proc. Natl. Acad. Sci. USA}, Vol.~96, pp. 6745\--6750.
+
+\bibitem[\protect\astroncite{Biesova et~al.}{1997}]{Bie97}
+{\sc Biesova, Z., Piccoli, C., and Wong, W.~T.} (1997),
+\newblock Isolation and characterization of e3b1, an eps8 binding protein that
+  regulates cell growth,
+\newblock {\em Oncogene},
+\newblock {\bf 14}, 233--241.
+
+\bibitem[\protect\astroncite{Bontempi}{2007}]{Gian07}
+{\sc Bontempi, G.} (2007),
+\newblock A blocking strategy to improve gene selection for cancer
+  classification of gene expression data,
+\newblock in {\em IEEE/ACM Transactions on Computational Biology and
+  Bioinformatics}, Vol.~4, pp. 293--300.
+
+\bibitem[\protect\astroncite{Breiman}{2001}]{Breiman}
+{\sc Breiman, B.} (2001),
+\newblock Random forests,
+\newblock {\em Machine Learning},
+\newblock {\bf 45(1)}, 5--32.
+
+\bibitem[\protect\astroncite{Bu et~al.}{2007}]{Bu07}
+{\sc Bu, H.-L., Li, G.-Z., and Zeng, X.-Q.} (2007),
+\newblock Reducing error of tumor classification by using dimension reduction
+  with feature selection,
+\newblock in {\em The First International Symposium on Optimization and Systems
+  Biology}, pp. 232--241.
+
+\bibitem[\protect\astroncite{Bull et~al.}{2004}]{Tod04}
+{\sc Bull, T.~M., Coldren, C.~D., Moore, M., Sotto-Santiago, S.~M., Pham,
+  D.~V., Nana-Sinkam, S.~P., Voelkel, N.~F., and Geraci, M.~W.} (2004),
+\newblock Gene microarray analysis of peripheral blood cells in pulmonary
+  arterial hypertension,
+\newblock {\em American Journal of Respiratory and Critical Care Medicine},
+\newblock {\bf 170}, 911--919.
+
+\bibitem[\protect\astroncite{Catlett}{1991}]{Cat91}
+{\sc Catlett, J.} (1991),
+\newblock On changing continuous attributes into ordered discrete attributes,
+\newblock in {\em Procs. of the European working session on learning on Machine
+  learning}, pp. 164--178.
+
+\bibitem[\protect\astroncite{Chu and Wang}{2005}]{Chuf05}
+{\sc Chu, F. and Wang, L.} (2005),
+\newblock Applications of support vector machines to cancer classification with
+  microarray data,
+\newblock {\em International Journal of Neural Systems},
+\newblock {\bf 15(6)}, 475--484.
+
+\bibitem[\protect\astroncite{Chu et~al.}{2005}]{Chu05}
+{\sc Chu, W., Ghahramani, Z., Falciani, F., and Wild, D.} (2005),
+\newblock Biomarker discovery in microarray gene expression data with gaussian
+  processes,
+\newblock {\em Bioinformatics},
+\newblock {\bf 21(16)}, 3385--3393.
+
+\bibitem[\protect\astroncite{Coombs et~al.}{1970}]{Tversky}
+{\sc Coombs, C.~H., Dawes, R.~M., and Tversky, A.} (1970),
+\newblock {\em Mathematical Psychology: An Elementary Introduction},
+\newblock Prentice-Hall, Englewood Cliffs, NJ.
+
+\bibitem[\protect\astroncite{DeBenedetti and Graff}{2004}]{Arr04}
+{\sc DeBenedetti, A. and Graff, J.} (2004),
+\newblock eif-4e expression and its role in malignancies and metastases,
+\newblock {\em Oncogene},
+\newblock {\bf 23}, 3189--3199.
+
+\bibitem[\protect\astroncite{DiLella et~al.}{2001}]{Ant01}
+{\sc DiLella, A., Toner, T., Austin, C., and Connolly, B.} (2001),
+\newblock Identification of genes differentially expressed in benign prostatic
+  hyperplasia,
+\newblock {\em The Journal of Histochemistry and Cytochemistry},
+\newblock {\bf 49(5)}, 669--670.
+
+\bibitem[\protect\astroncite{Duan et~al.}{2005}]{Bo05}
+{\sc Duan, K.-B., Rajapakse, J., Wang, H., and Azuaje, F.} (2005),
+\newblock Multiple svm-rfe for gene selection in cancer classification with
+  expression data,
+\newblock in {\em IEEE/ACM Transactions on Nanobioscience}, Vol.~4, pp.
+  228--234.
+
+\bibitem[\protect\astroncite{Fuentes et~al.}{2007}]{Mar07}
+{\sc Fuentes, M., Nigavekar, S., Arumugam, T., Logsdon, C., Schmidt, A., Park,
+  J., and Huang, E.} (2007),
+\newblock Rage activation by s100p in colon cancer stimulates growth, migration
+  and cell signaling pathways,
+\newblock {\em Diseases of the Colon \& Rectum},
+\newblock {\bf 50}, 1230--1240.
+
+\bibitem[\protect\astroncite{GeneAtlas}{}]{GeneAtlas}
+{\sc GeneAtlas},
+\newblock {\em Universit\'e Ren\'e Descartes, Paris},
+\newblock \url{http://www.dsi.univ-paris5.fr/genatlas/}.
+
+\bibitem[\protect\astroncite{Golub et~al.}{1999}]{Go99}
+{\sc Golub, T., Slonim, D., Tamayo, P., Huard, C., Gaasenbeek, M., Mesirov, J.,
+  Coller, H., Loh, M., Downing, J., Caligiuri, M., Bloomfield, C., and Lander,
+  E.} (1999),
+\newblock Molecular classification of cancer: Class discovery and class
+  prediction by gene expression monitoring,
+\newblock {\em Science},
+\newblock {\bf 286(5439)}, 531--537.
+
+\bibitem[\protect\astroncite{Gordon et~al.}{2002}]{Gor02}
+{\sc Gordon, G.~J., Jensen, R.~V., Hsiao, L.-L., Gullans, S.~R., Blumenstock,
+  J.~E., Ramaswamy, S., Richards, W.~G., Sugarbaker, D.~J., and Bueno, R.}
+  (2002),
+\newblock Translation of microarray data into clinically relevant cancer
+  diagnostic tests using gene expression ratios in lung cancer and
+  mesothelioma,
+\newblock {\em Cancer Research},
+\newblock {\bf 62}, 4963--4967.
+
+\bibitem[\protect\astroncite{Hoffman and Valencua}{2004}]{IHOP}
+{\sc Hoffman, R. and Valencua, A.} (2004),
+\newblock A gene network for navigating the literature,
+\newblock {\em Nature Genetics},
+\newblock {\bf 36}, 664,
+\newblock \url{http://www.ihop-net.org/}.
+
+\bibitem[\protect\astroncite{Jakulin and Bratko}{2004}]{Jak04}
+{\sc Jakulin, A. and Bratko, I.} (2004),
+\newblock Quantifying and visualizing attribute interactions: An aproach based
+  on entropy,
+\newblock in {\em Procs. of the International Conference on Machine Learning}.
+
+\bibitem[\protect\astroncite{John et~al.}{1994}]{John1994}
+{\sc John, G., Kohavi, R., and Pfleger, K.} (1994),
+\newblock Irrelevant features and the subset selection problem,
+\newblock in {\em Procs. of the International Conference on Machine Learning}.
+
+\bibitem[\protect\astroncite{Juliusdottir et~al.}{2005}]{Th05}
+{\sc Juliusdottir, T., Keedwell, E., Corne, D., and Narayanan, A.} (2005),
+\newblock Two-phase ea/k-nn for feature selection and classification in cancer
+  microarray datasets,
+\newblock in {\em CIBCB}, pp. 1--8.
+
+\bibitem[\protect\astroncite{Kanazawa}{2006}]{Yo06}
+{\sc Kanazawa, Y.} (2006),
+\newblock Down regulation of the human plakoglobulin gene (jup) in soft tissue
+  sarcoma is associated with a higher risk of lung metastasis,
+\newblock in {\em UICC World Cancer Congress}.
+
+\bibitem[\protect\astroncite{Klezovitch et~al.}{2006}]{Olg04}
+{\sc Klezovitch, O., Chevillet, J., Mirosevich, J., Roberts, R.~L., Matusik,
+  R.~J., and Vasioukhin, V.} (2006),
+\newblock Hepsin promotes prostate cancer progression and metastasis,
+\newblock {\em Cancer Cell},
+\newblock {\bf 6}, 185--195.
+
+\bibitem[\protect\astroncite{Kurgan and Cios}{2004}]{Luk04}
+{\sc Kurgan, L.~A. and Cios, K.~J.} (2004),
+\newblock Caim discretization algorithm,
+\newblock {\em IEEE Trans. on Knowledge \& Data Engineering},
+\newblock {\bf 16(2)}, 145--153.
+
+\bibitem[\protect\astroncite{Mej\'ia-Lavalle and Morales}{2006}]{Lav06}
+{\sc Mej\'ia-Lavalle, M. and Morales, E.} (2006),
+\newblock Feature selection considering attribute inter-dependencies,
+\newblock in {\em Procs. of the Second Workshop on Feature Selection for Data
+  Mining}.
+
+\bibitem[\protect\astroncite{Mitchell}{1997}]{Mitchell}
+{\sc Mitchell, T.} (1997),
+\newblock {\em Machine Learning},
+\newblock McGraw-Hill Higher Education.
+
+\bibitem[\protect\astroncite{NCBI}{}]{NCBI}
+{\sc NCBI},
+\newblock {\em National Center of Biothecnology Information},
+\newblock \url{http://www.ncbi.nlm.nih.gov/}.
+
+\bibitem[\protect\astroncite{Ng and Chan}{2005}]{Man05}
+{\sc Ng, M. and Chan, L.} (2005),
+\newblock Informative gene discovery for cancer classification from microarray
+  expression data,
+\newblock in {\em IEEE Workshop on Machine Learning for Signal Processing}, pp.
+  393--398.
+
+\bibitem[\protect\astroncite{Niijima and Kuhara}{2006}]{Sat06}
+{\sc Niijima, S. and Kuhara, S.} (2006),
+\newblock Recursive gene selection based on maximum margin criterion: a
+  comparison with svm-rfe,
+\newblock {\em BMC Bioinformatics},
+\newblock {\bf 7}, 543--561.
+
+\bibitem[\protect\astroncite{Potamias et~al.}{2004}]{Pot04}
+{\sc Potamias, G., Koumakis, L., and Moustakis, V.} (2004),
+\newblock Gene selection via discretized gene-expression profiles and greedy
+  feature-elimination,
+\newblock in {\em SETN}, pp. 256--266.
+
+\bibitem[\protect\astroncite{Qin et~al.}{2006}]{Shu06}
+{\sc Qin, S., Qiu, W., Ehrlich, J.~R., Ferdinand, A.~S., Richie, J.~P.,
+  O’Leary, M.~P., Lee, M.-L.~T., and Liu1, B. C.-S.} (2006),
+\newblock Development of a reverse capture autoantibody microarray for studies
+  of antigen-autoantibody profiling,
+\newblock {\em Proteomics},
+\newblock {\bf 6}, 3199--3209.
+
+\bibitem[\protect\astroncite{Ruiz et~al.}{2006}]{Rui05}
+{\sc Ruiz, R., Riquelme, J., and Aguilar, J.} (2006),
+\newblock Incremental wrapper-based gene selection from microarray data for
+  cancer classification,
+\newblock {\em Pattern Recognition},
+\newblock {\bf 39}, 2383--2392.
+
+\bibitem[\protect\astroncite{Shannon}{1948}]{Sha48}
+{\sc Shannon, C.~E.} (1948),
+\newblock A mathematical theory of communication.,
+\newblock {\em The Bell System Technical Journal},
+\newblock {\bf 27}, 379--423.
+
+\bibitem[\protect\astroncite{Simon et~al.}{2003}]{Sim03}
+{\sc Simon, R.~M., Korn, E.~L., McShane, L.~M., Radmacher, M.~D., Wright,
+  G.~W., and Zhao, Y.} (2003),
+\newblock {\em Design and Analysis of DNA Microarray Investigations},
+\newblock Springer-Verlag.
+
+\bibitem[\protect\astroncite{Singh et~al.}{2002}]{Sig02}
+{\sc Singh, D., Febbo, P., Ross, K., Jackson, D., Manola, J., Ladd, C., Tamayo,
+  P., Renshaw, A., D'Amico, A., Richie, J., Lander, E., Loda, M., Kantoff, P.,
+  Golub, T., and Sellers, W.} (2002),
+\newblock Gene expression correlates of clinical prostate cancer behavior,
+\newblock {\em Cancer Cell},
+\newblock {\bf 1}, 203--209.
+
+\bibitem[\protect\astroncite{Tang et~al.}{2007}]{Tan07}
+{\sc Tang, Y., Zhang, Y.-Q., and Huang, Z.} (2007),
+\newblock Development of two-stage svm-rfe gene selection strategy for
+  microarray expression data analysis,
+\newblock in {\em IEEE/ACM Transactions on Computational Biology and
+  Bioinformatics}, Vol.~4, pp. 365--381.
+
+\bibitem[\protect\astroncite{Tennyson et~al.}{1998}]{Vir98}
+{\sc Tennyson, V., Gershon, M., Wade, P., Crotty, D., and Wolgemuth, D.}
+  (1998),
+\newblock Fetal development of the enteric nervous system of transgenic mice
+  that overexpress the hoxa-4 gene,
+\newblock {\em Developmental Dynamics},
+\newblock {\bf 212}, 269--291.
+
+\bibitem[\protect\astroncite{Thiry et~al.}{2006}]{Ann06}
+{\sc Thiry, A., Dogne, J., Masereel, B., and Supuran, C.} (2006),
+\newblock Identification of genes differentially expressed in benign prostatic
+  hyperplasia,
+\newblock {\em Pharmacological Sciences},
+\newblock 27(11).
+
+\bibitem[\protect\astroncite{Topon and Hitoshi}{2004}]{To04}
+{\sc Topon, P. and Hitoshi, I.} (2004),
+\newblock Selection of the most useful subset of genes for gene
+  expression-based classification,
+\newblock in {\em Procs. of Congress on Evolutionary Computation}, pp.
+  2076--2083.
+
+\bibitem[\protect\astroncite{\"{U}beyli}{2008}]{Ubeyli08}
+{\sc \"{U}beyli, E.} (2008),
+\newblock Measuring saliency of features extracted by model-based methods from
+  internal carotid arterial doppler signals using signal-to-noise ratios.,
+\newblock {\em Digital Signal Processing},
+\newblock {\bf 18(1)}, 2--14.
+
+\bibitem[\protect\astroncite{Vapnik}{1998}]{Vap98}
+{\sc Vapnik, V.} (1998),
+\newblock {\em Statistical Learning Theory},
+\newblock John Wiley and Sons.
+
+\bibitem[\protect\astroncite{Veer et~al.}{2002}]{Ver02}
+{\sc Veer, L., Dai, H., Vijver, M., He, Y., Hart, A., Mao, M., Peterse, H.,
+  Kooy, K., Marton, M., Witteveen, A., Schreiber, G., Kerkhoven, R., Roberts,
+  C., Linsley, P., Bernards, R., and Friend, S.} (2002),
+\newblock Gene expression profiling predicts clinical outcome of breast cancer,
+\newblock {\em Nature},
+\newblock {\bf 415(415)}, 530--536.
+
+\bibitem[\protect\astroncite{Vere}{1975}]{Vere1975}
+{\sc Vere, S.} (1975),
+\newblock Induction of concepts in the predicate calculus,
+\newblock in {\em Procs. of the 4th International Joint Conference on
+  Artificial Intelligence}, pp. 281--287.
+
+\bibitem[\protect\astroncite{Wang et~al.}{2007}]{Chu07}
+{\sc Wang, C., Navab, R., Iakovlev, V., Leng, Y., Zhang, J., Tsao, M.-S.,
+  Siminovitch, K., McCready, D.~R., and Done, S.~J.} (2007),
+\newblock Abelson interactor protein-1 positively regulates breast cancer cell
+  proliferation, migration and invasion,
+\newblock {\em Molecular Cancer Research},
+\newblock {\bf 5}, 1031--1039.
+
+\bibitem[\protect\astroncite{Wang}{1996}]{Wan96}
+{\sc Wang, H.} (1996),
+\newblock {\em Ph.D. thesis}, Univ. of Ulster.
+
+\bibitem[\protect\astroncite{Winston}{1975}]{Winston1975}
+{\sc Winston, P.} (1975),
+\newblock {\em Learning Structural Descriptions from Examples},
+\newblock McGraw-Hill.
+
+\bibitem[\protect\astroncite{Yasuda et~al.}{1998}]{Yok98}
+{\sc Yasuda, Y., Tokita, Y., Aono, S., Matsui, F., Ono, T., ichi Sonta, S.,
+  Watanabe, E., Nakanishi, Y., and Oohira, A.} (1998),
+\newblock Cloning and chromosomal mapping of the human gene of neuroglycan c, a
+  neural transmembrane chondroitin sulfate proteoglycan with an egf module,
+\newblock {\em Neuroscience Research},
+\newblock {\bf 32}, 313--322.
+
+\bibitem[\protect\astroncite{Yu and Liu}{2004}]{Lei04}
+{\sc Yu, L. and Liu, H.} (2004),
+\newblock Redundancy based feature selection for microarray data,
+\newblock in {\em Procs. of Knowledge Discovery in Databases}, pp. 737--742.
+
+\end{thebibliography}

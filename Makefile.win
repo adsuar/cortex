@@ -1,0 +1,57 @@
+# Project: CORTEX
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe
+CC   = gcc.exe
+WINDRES = windres.exe
+RES  = 
+OBJ  = src/main.o src/fsvector/fsvector.o src/fsdistance/fsdistance.o src/fsevaluation/fsevaluation.o src/fsmatrix/fsmatrix.o src/fsdata/fsdata.o src/fsvotes/fsvotes.o src/fsaprs/fsaprs.o src/fspata/fspata.o src/fspd/fspd.o $(RES)
+LINKOBJ  = src/main.o src/fsvector/fsvector.o src/fsdistance/fsdistance.o src/fsevaluation/fsevaluation.o src/fsmatrix/fsmatrix.o src/fsdata/fsdata.o src/fsvotes/fsvotes.o src/fsaprs/fsaprs.o src/fspata/fspata.o src/fspd/fspd.o $(RES)
+LIBS =  -L"C:/Dev-Cpp/lib"  
+INCS =  -I"C:/Dev-Cpp/include" 
+CXXINCS =  -I"C:/Dev-Cpp/lib/gcc/mingw32/3.4.2/include"  -I"C:/Dev-Cpp/include/c++/3.4.2/backward"  -I"C:/Dev-Cpp/include/c++/3.4.2/mingw32"  -I"C:/Dev-Cpp/include/c++/3.4.2"  -I"C:/Dev-Cpp/include" 
+BIN  = CORTEX.exe
+CXXFLAGS = $(CXXINCS)  
+CFLAGS = $(INCS)  
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before CORTEX.exe all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o "CORTEX.exe" $(LIBS)
+
+src/main.o: src/main.cc
+	$(CPP) -c src/main.cc -o src/main.o $(CXXFLAGS)
+
+src/fsvector/fsvector.o: src/fsvector/fsvector.cc
+	$(CPP) -c src/fsvector/fsvector.cc -o src/fsvector/fsvector.o $(CXXFLAGS)
+
+src/fsdistance/fsdistance.o: src/fsdistance/fsdistance.cc
+	$(CPP) -c src/fsdistance/fsdistance.cc -o src/fsdistance/fsdistance.o $(CXXFLAGS)
+
+src/fsevaluation/fsevaluation.o: src/fsevaluation/fsevaluation.cc
+	$(CPP) -c src/fsevaluation/fsevaluation.cc -o src/fsevaluation/fsevaluation.o $(CXXFLAGS)
+
+src/fsmatrix/fsmatrix.o: src/fsmatrix/fsmatrix.cc
+	$(CPP) -c src/fsmatrix/fsmatrix.cc -o src/fsmatrix/fsmatrix.o $(CXXFLAGS)
+
+src/fsdata/fsdata.o: src/fsdata/fsdata.cc
+	$(CPP) -c src/fsdata/fsdata.cc -o src/fsdata/fsdata.o $(CXXFLAGS)
+
+src/fsvotes/fsvotes.o: src/fsvotes/fsvotes.cc
+	$(CPP) -c src/fsvotes/fsvotes.cc -o src/fsvotes/fsvotes.o $(CXXFLAGS)
+
+src/fsaprs/fsaprs.o: src/fsaprs/fsaprs.cc
+	$(CPP) -c src/fsaprs/fsaprs.cc -o src/fsaprs/fsaprs.o $(CXXFLAGS)
+
+src/fspata/fspata.o: src/fspata/fspata.cc
+	$(CPP) -c src/fspata/fspata.cc -o src/fspata/fspata.o $(CXXFLAGS)
+
+src/fspd/fspd.o: src/fspd/fspd.cc
+	$(CPP) -c src/fspd/fspd.cc -o src/fspd/fspd.o $(CXXFLAGS)
